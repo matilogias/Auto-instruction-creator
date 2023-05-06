@@ -104,7 +104,9 @@ def save_to_word():
         paragraph.add_run(description.strip())
         doc.add_page_break()
 
-    doc.save(f"{project_name}.docx")
+    if not os.path.exists("outputs"):
+        os.makedirs("outputs")
+    doc.save(os.path.join("outputs", f"{project_name}.docx"))
 
 # Function to create project folder
 def create_project_folder():
@@ -152,7 +154,7 @@ def open_project():
 
 # Create the main GUI window
 root = Tk()
-root.title("Instructions Creator")
+root.title("Auto instructions creator")
 
 # Initialize variables
 project_name_var = StringVar()
