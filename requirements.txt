@@ -1,0 +1,6 @@
+numpy==1.21.0
+opencv-python-headless==4.5.3.56
+pyautogui==0.9.53
+python-docx==0.8.11
+mouse==0.7.2
+keyboard==0.13.5
