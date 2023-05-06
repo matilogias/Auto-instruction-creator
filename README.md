@@ -1,6 +1,7 @@
 # Auto instruction creator
 
-Auto instruction creator Tool is a simple GUI-based application that allows users to take screenshots of specific areas on their screen, add descriptions to each screenshot, and save the collection as a Microsoft Word document. It also supports loading and editing existing projects(project is folder with screanshots descriptions descriptions). The tool was created because I needed a way to quickly create instructions fo rmy clients, and I wanted to automate the process as much as possible. Tool is created mostly using GPT-3.5 and GPT-4 models. I wanted to share this tool with the community in case anyone else finds it useful.
+Auto instruction creator Tool is a simple GUI-based application that allows users to take screenshots of specific areas on their screen, add descriptions to each screenshot, and save the collection as a Microsoft Word document. It also supports loading and editing existing projects(project is folder with screanshots descriptions descriptions). 
+The tool was created because I needed a way to quickly create instructions for my clients, and I wanted to automate the process as much as possible. Tool is created mostly using GPT-3.5 and GPT-4 models. I wanted to share this tool with the community in case anyone else finds it useful.
 This tool is working on only windows and takes screenshots of the primary monitor only.
 
 ## Features
