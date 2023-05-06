@@ -37,8 +37,8 @@ The dependencies include:
 2. Run the script with the following command:
 python main.py
 3. Enter a project name, or open an existing project using the "Open Project" button.
-4. Click "Start/Stop Screenshot Mode" to begin taking screenshots. Click on the desired areas of the screen while in screenshot mode.
-5. Click "Load/Edit Images" to view and edit the descriptions for each screenshot.
+4. Click "Start making screenshots" to begin taking screenshots.
+5. Click "Edit descriptions" to view and edit the descriptions for each screenshot.
 6. Save the project as a Word document by clicking "Save to Word."
 
 ## License
